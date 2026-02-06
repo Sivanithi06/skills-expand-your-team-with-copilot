@@ -15,6 +15,8 @@ Description: Dive into the exciting world of Japanese Manga! Discover bold heroe
 Schedule: Tuesdays at 5pm
 Max attendance: 25 people
 
+Please improve this description to sound more exciting and fun
+
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
